@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Lodging - Home Page</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="../mm_lodging1.css" type="text/css" />
+<style type="text/css">
+<!--
+.style3 {	font-size: xx-large;
+	font-family: cursive, sans-serif, serif;
+	font-style: italic;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body bgcolor="#999966">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr>
+	<td width="170" nowrap="nowrap"><img src="../Pictures/iitlogo2.gif" alt="" width="150" height="153" hspace="10" border="0" /></td>
+	<td height="60" colspan="3" class="logo" nowrap="nowrap"><br />
+	  <span class="style3" lang="EN-US" xml:lang="EN-US"> Queuing  Networks Modeling Virtual </span><span class="style3">Lab</span></td>
+	<td width="4">&nbsp;</td>
+	<td width="101">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#a4c2c2">
+	<td width="170" nowrap="nowrap">&nbsp;</td>
+	<td height="36" colspan="3" id="navigation" class="navText"><a href="../index.html">HOME</a><a href="javascript:;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="../theory.html">THEORY</a><a href="javascript:;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp; &nbsp;&nbsp; <a href="javascript:;"></a> &nbsp;&nbsp;<a href="../experiments.html">EXPERIMENTS</a>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;<a href="../quiz.html">QUIZ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      &nbsp;&nbsp;&nbsp;&nbsp;<a href="../team.html">TEAM</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="../contact.html">CONTACT</a><a href="javascript:;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+	<td width="4">&nbsp;</td>
+	<td width="101">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="2" valign="top" bgcolor="#a4c2c2">&nbsp;</td>
+	<td width="50" valign="top"><img src="../mm_spacer.gif" alt="" width="50" height="1" border="0" /></td>
+	<td width="595" valign="top"><br />
+	<br />
+	<table border="0" cellspacing="0" cellpadding="0" width="440">
+		<tr>
+		<td class="pageName"><p>Welcome Message Here</p></td>
+		</tr>
+
+		<tr>
+		<td class="bodyText">
+		<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. </p>
+
+		<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. </p>
+
+		<br />		</td>
+		</tr>
+	</table>	</td>
+	<td width="4">&nbsp;</td>
+	<td width="101">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td colspan="6"><img src="../mm_spacer.gif" alt="" width="1" height="1" border="0" /></td>
+	</tr>
+
+	<tr>
+	<td width="170">&nbsp;</td>
+	<td width="4">&nbsp;</td>
+	<td width="50">&nbsp;</td>
+	<td width="595">&nbsp;</td>
+	<td width="4">&nbsp;</td>
+	<td width="101">&nbsp;</td>
+	</tr>
+</table>
+</body>
+</html>

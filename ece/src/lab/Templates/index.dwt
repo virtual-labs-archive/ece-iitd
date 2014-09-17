@@ -1,0 +1,92 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta name="keywords" content="" />
+<meta name="description" content="" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Virtual Labs - IIT Delhi</title>
+<!-- TemplateEndEditable -->
+<link href="../style.css" rel="stylesheet" type="text/css" media="screen" />
+<style type="text/css">
+<!--
+.style1 {font-size: 16px}
+.style2 {font-size: 9px}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+				<h1><a href="#">Queuing Networks Modelling Lab</a></h1>
+		  <p>Virtual Labs - IIT Delhi</p>
+	  </div>
+	</div>
+	<!-- end #header -->
+	<div id="menu">
+		<ul>
+			<li><a href="index.html">Home</a><a href="#"></a></li>
+			<li><a href="theory.html">Getting Started</a><a href="#"></a></li>
+			<li><a href="experiments.html">Experiments</a><a href="#"></a></li>
+		  <li><a href="quiz.html">Quiz</a><a href="#"></a></li>
+		  
+<li><a href="relatedWebsites.html">Related Websites</a><a href="#"></a></li>
+<li><a href="faq.html">FAQ</a><a href="#"></a></li>
+<li><a href="feedback.html">Feedback</a><a href="#"></a></li>
+		  <li><a href="team.html">Team</a><a href="#"></a></li>
+			<li><a href="contact.html">Contact</a><a href="#"></a></li>
+			<li></li>
+		  <li></li>
+	  </ul>
+  </div>
+<!-- end #menu -->
+	<div id="page">
+	<div id="page-bgtop">
+	<div id="page-bgbtm">
+		<div id="content">
+			<div class="post">
+			<div class="post-bgtop">
+		<div class="post-bgbtm"><!-- TemplateBeginEditable name="EditRegion3" -->
+        <h1 class="title"><a href="#">Welcome to Virtual Labs</a></h1>
+        <p class="meta">Posted by <a href="#">Prof A M Kulkarni</a> on April 16, 2010
+          &nbsp;&bull;&nbsp; <a href="#" class="comments">Comments</a>&nbsp; </p>
+        <div class="entry">
+          <p>Physical distances and the lack of resources make us unable to perform experiments, especially when they involve sophisticated instruments. Also, good teachers are always a scarce resource. Web-based and video-based courses address the issue of teaching to some extent. Conducting joint experiments by two participating institutions and also sharing costly resources has always been a challenge. With the present day internet and computer technologies the above limitations can no more hamper students and researchers in enhancing their skills and knowledge. Also, in a country such as ours, costly instruments and equipment need to be shared with fellow researchers to the extent possible.</p>
+          <p>The armature of the DC motor is fed from a (controlled) three phase thyristor rectifier. The DC voltage to motor field is also provided by a similar controlled rectifier. All the interconnections of the components are made inside the panel. A measurement card is enclosed inside the panel, which is used to measure and scale down the voltages and currents of the motor and generator.</p>
+        </div>
+		<!-- TemplateEndEditable --></div>
+			</div>
+			</div>
+			<div class="post">
+			<div class="post-bgtop"></div>
+		  </div>
+			<div class="post">
+			<div class="post-bgtop"></div>
+		  </div>
+		<div style="clear: both;">&nbsp;</div>
+		</div>
+		<!-- end #content -->
+		<div id="sidebar">
+			<ul>
+				<!-- TemplateBeginEditable name="EditRegion4" -->
+                <h2>About Virtual labs</h2>
+                <p>Physical distances and the lack of resources make us unable to perform experiments, especially when they involve sophisticated instruments. Also, good teachers are always a scarce resource.</p>
+                <!-- TemplateEndEditable -->
+		  </ul>
+		    <p>&nbsp;</p>
+		</div>
+		<!-- end #sidebar -->
+		<div style="clear: both;">&nbsp;</div>
+	</div>
+	</div>
+	</div>
+	<!-- end #page -->
+	<div id="footer">
+		<p><span class="style2">Queuing Networks Modeling Lab</span> <a href="http://vlab.co.in/001/index.php">Virtual Labs - IIT Delhi</a><a href="#"></a></p>
+  </div>
+  <!-- end #footer -->
+</div>
+</body>
+</html>
